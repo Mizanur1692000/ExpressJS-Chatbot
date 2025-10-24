@@ -1,0 +1,11 @@
+# Environment variables
+.env
+
+# Logs
+logs
+
+# Cache
+.cache/
+.next/
+node_modules/
+package-lock.json
